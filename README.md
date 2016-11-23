@@ -25,7 +25,7 @@ Codes for studying pattern recognition based on Sugiyama (2009)
 ## 第7章
 
 ## 第8章
-### 混合ガウスモデルの最尤推定 [p118.m](p118.m)，[myrand.m](myrand.m)，[myrand_gmm.m](myrand_gmm.m)
+### 混合ガウスモデルの最尤推定 [p118a.m](p118a.m)，[myrand.m](myrand.m)，[myrand_gmm.m](myrand_gmm.m)
 
 
 ## 第9章
