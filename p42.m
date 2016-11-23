@@ -1,4 +1,4 @@
-﻿clear all
+clear all
 load digit.mat X T    % X は訓練用データ（500文字/数字），Tは評価用データ
 [d, n, nc] = size(X); % d=256, n=500, nc=10
  
